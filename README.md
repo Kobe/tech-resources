@@ -1,5 +1,7 @@
 # Tech Resources
 
+Personal selection of some tech resources.
+
 ## Twitter
 
 - https://twitter.com/sprungmarkers
@@ -34,7 +36,12 @@
 - https://scheppundmies.de
 - https://www.podcast.de/podcast/623922/
 - https://techtiefen.de
-https://uiengineering.de
+- https://uiengineering.de
+- https://expect-exception.fail/podcast
+- https://ready-for-review.podigee.io
+- https://www.innoq.com/de/podcast/
+- https://www.heise.de/developer/podcast/
+
 
 
 ## YouTube
@@ -45,3 +52,8 @@ https://uiengineering.de
 - https://www.youtube.com/channel/UCWf2ZlNsCGDS89VBF_awNvA
 - https://www.youtube.com/channel/UCfuj1MM5p37CRzWYPv_PsWA
 - https://www.youtube.com/channel/UCrsEcxPCJlz5yZ_FKGo6D9g
+- https://www.youtube.com/channel/UC0BtS97KQR7I4Xqa9VYlkvg
+- https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg
+- https://www.youtube.com/channel/UCijIZjSS5Qbro9i34BPevZA
+- https://www.youtube.com/channel/UCCadM9XfyB78TEogPzwP7iQ
+- https://www.youtube.com/channel/UCBOSjItUw0dPt9TTH7mMbqg
