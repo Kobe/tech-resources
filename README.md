@@ -1,4 +1,4 @@
-# Tech Resources
+# My personal tech resources
 
 Personal selection of some tech resources.
 
